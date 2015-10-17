@@ -5,13 +5,14 @@
 </div>
 <br>
 
-> fishtaro theme for [Oh My Fish][omf-link].
+> fishtaro un official theme for [Oh My Fish][omf-link].
 
 ## Install
 
-
 ```fish
-$ omf u fishtaro
+$ cd ~/.local/share/omf/themes/
+$ git clone https://github.com/vwxyutarooo/fishtaro.git
+$ omf theme fishtaro
 ```
 
 ## Features
